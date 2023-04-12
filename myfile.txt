@@ -1,2 +1,4 @@
 this is sample text
-first line
+first line\
+secong line
+third line
